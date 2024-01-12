@@ -1,0 +1,47 @@
+*{
+    margin : 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.catalogtxt{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.catalogcpt{
+    font-weight: bolder;
+}
+.contact{
+    background-color: #6867675e;
+}
+.btn{
+    width: 100px;
+}
+.footer{
+    border-top: 1px solid #000;
+}
+.darkCard{
+    background-color: #201f1fd3;
+    color: white;
+}
+.dark{
+    background-color: rgba(94, 92, 92, 0.918);
+    color: white;
+}
+.navbar{
+    background-color: rgb(255, 255, 255);
+}
+.navDark{
+    background-color: rgb(100, 102, 102);
+    color: white;
+}
+#btnsubmit{
+    width: 460px;
+}
+.navbar-brand, .captnav, .judulCard{
+    font-family: Lemon;
+}
+
+.captionCard, .catalogtxt, .cntk, .card-title, .catalogcpt{
+    font-family: 'Salsa';
+}
