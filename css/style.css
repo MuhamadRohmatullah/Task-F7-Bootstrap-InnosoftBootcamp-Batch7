@@ -32,10 +32,10 @@
     color: white;
 }
 .navbar{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(224, 221, 221, 0.486);
 }
 .navDark{
-    background-color: rgb(100, 102, 102);
+    background-color: rgba(100, 102, 102, 0.575);
     color: white;
 }
 #btnsubmit{
